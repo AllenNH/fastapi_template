@@ -1,2 +1,2 @@
-async def initilize_db(db, id):
+async def endpoint():
     return {"success from routes": True}
