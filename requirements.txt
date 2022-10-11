@@ -3,3 +3,5 @@ uvicorn
 motor
 loguru
 ulid-py
+python-jose
+python-multipart
